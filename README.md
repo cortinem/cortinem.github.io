@@ -6,4 +6,4 @@ My name is Emilio Cortina, I like cars and racing. For the past few years my Dad
 My favorite type of music is Metal and my top three favorite bands/artists are Avengened Sevenfold, Metallica, and Ozzy Osbourne. 
 My favorite video games are BattleField 1 and 5 
 
-![image](/Users/emiliocortina/Downloads/My\Jeep\and\Oakley.JPG)
+![image info](/Users/emiliocortina/Downloads/My\Jeep\and\Oakley.JPG)
