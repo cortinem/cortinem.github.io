@@ -1,4 +1,3 @@
-# cortinem.github.io
 
 ## Hello People! 
 
