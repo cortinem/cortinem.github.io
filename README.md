@@ -14,6 +14,5 @@ My favorite video games are BattleField 1 and 5.
 ## The truck, the myth, the legend... 
 
 Here's a picture of my Jeep with its color matching security gaurd, Oakley.(security gaurd not included) 
-![image](https://user-images.githubusercontent.com/70117485/91894004-fcc5e800-ec62-11ea-84a0-08e45ed2b2cf.JPG)
 
-<img src="https://user-images.githubusercontent.com/70117485/91894004-fcc5e800-ec62-11ea-84a0-08e45ed2b2cf.JPG" width="50%" class="center"> 
+<img src="https://user-images.githubusercontent.com/70117485/91894004-fcc5e800-ec62-11ea-84a0-08e45ed2b2cf.JPG" width="50%"> 
