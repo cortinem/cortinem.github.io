@@ -11,8 +11,15 @@ My favorite video games are BattleField 1 and 5.
 
 
 
-## The truck, the myth, the legend... 
+## The Truck, The Myth, The Legend... 
 
 Here's a picture of my Jeep with its color matching security gaurd, Oakley.(security gaurd not included) 
 
 <img src="https://user-images.githubusercontent.com/70117485/91894004-fcc5e800-ec62-11ea-84a0-08e45ed2b2cf.JPG" width="50%"> 
+
+## Learning Objectives. 
+
+I hope to familiarize myself with a few programming languages this semester which include. 
+* Python 
+* JavaScript 
+* Java 
