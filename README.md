@@ -46,5 +46,5 @@ https://github.com/cortinem/tdd-converters-python.git
 
 #### Here's how I packaged all of the pieces
 
-<img src="https://user-images.githubusercontent.com/70117485/101536144-9b9b6800-3967-11eb-8d87-a23389feb984.jpg" width="50%">
+<img src="https://user-images.githubusercontent.com/70117485/101536760-6ba09480-3968-11eb-8d86-5e096ae4fe8b.jpg" width="50%">
 
