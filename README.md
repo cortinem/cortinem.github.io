@@ -48,3 +48,7 @@ https://github.com/cortinem/tdd-converters-python.git
 
 <img src="https://user-images.githubusercontent.com/70117485/101536760-6ba09480-3968-11eb-8d86-5e096ae4fe8b.jpg" width="50%">
 
+##### I actually used the box that the wiring kit cam in to mount the arduino and breadboard to
+
+#### Here's the first powerup 
+
