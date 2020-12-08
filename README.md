@@ -37,3 +37,14 @@ https://github.com/cortinem/hello-world-python.git
 ### An MPG to KPL converter 
 
 https://github.com/cortinem/mpg2kpl-python-.git
+
+### A units converter made with TDD 
+
+https://github.com/cortinem/tdd-converters-python.git
+
+### My first Arduino project!! 
+
+#### Here's how I packaged all of the pieces
+
+<img src="https://github.com/cortinem/hello-world-python/blob/master/hello_world_screenshot.png?raw=true" width="50%">
+
