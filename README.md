@@ -53,3 +53,7 @@ https://github.com/cortinem/tdd-converters-python.git
 #### Here's the first powerup 
 
 <img src="https://user-images.githubusercontent.com/70117485/101537080-eb2e6380-3968-11eb-866b-f1090843f5cb.jpg" width="50%">
+
+#### Here it is mounted on the wall and working, I used velcro to attatch the box to the wall and the arduino to the box so i can still remove it to work on it. 
+
+<img src="https://user-images.githubusercontent.com/70117485/101537370-5bd58000-3969-11eb-90e2-49a590c050db.jpg" width="50%">
