@@ -13,7 +13,7 @@ My favorite video games are BattleField 1 and 5.
 
 <img src="https://user-images.githubusercontent.com/70117485/93719008-d2729680-fb4d-11ea-9150-96b7914e1a38.jpg" width="50%">
 
-## The Truck, The Myth, The Legend... 
+## The Truck, The Myth, The Legend... The Comanche Chief 
 
 Here's a picture of my Jeep with its color matching security gaurd, Oakley.(security gaurd not included) 
 
