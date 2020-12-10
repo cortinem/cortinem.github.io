@@ -60,6 +60,6 @@ https://github.com/cortinem/tdd-converters-python.git
 
 * #### The final result is pretty good
 
-<img src="https://user-images.githubusercontent.com/70117485/101537370-5bd58000-3969-11eb-90e2-49a590c050db.jpg" width="50%">
+<img src="https://user-images.githubusercontent.com/70117485/101731980-75bab400-3a8a-11eb-8006-21b916f8df1d.jpg" width="50%">
 
 
