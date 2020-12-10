@@ -57,3 +57,9 @@ https://github.com/cortinem/tdd-converters-python.git
 * #### Here it is mounted on the wall and working, I used velcro to attatch the box to the wall and the arduino to the box so i can still remove it to work on it. 
 
 <img src="https://user-images.githubusercontent.com/70117485/101537370-5bd58000-3969-11eb-90e2-49a590c050db.jpg" width="50%">
+
+* #### The final result is pretty good
+
+<img src="https://user-images.githubusercontent.com/70117485/101537370-5bd58000-3969-11eb-90e2-49a590c050db.jpg" width="50%">
+
+
