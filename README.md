@@ -11,13 +11,13 @@ My favorite video games are BattleField 1 and 5.
 
 ## The Car Of My Dreams 
 
-<img src="https://user-images.githubusercontent.com/70117485/93719008-d2729680-fb4d-11ea-9150-96b7914e1a38.jpg" width="50%">
+<img src="https://user-images.githubusercontent.com/70117485/93719008-d2729680-fb4d-11ea-9150-96b7914e1a38.jpg" width="70%">
 
 ## The Truck, The Myth, The Legend... The Comanche Chief 
 
 Here's a picture of my Jeep with its color matching security gaurd, Oakley.(security gaurd not included) 
 
-<img src="https://user-images.githubusercontent.com/70117485/91894004-fcc5e800-ec62-11ea-84a0-08e45ed2b2cf.JPG" width="50%"> 
+<img src="https://user-images.githubusercontent.com/70117485/91894004-fcc5e800-ec62-11ea-84a0-08e45ed2b2cf.JPG" width="70%"> 
 
 ## Learning Objectives. 
 
@@ -30,7 +30,7 @@ I hope to familiarize myself with a few programming languages this semester whic
 
 ### My first hello world program 
 
-<img src="https://github.com/cortinem/hello-world-python/blob/master/hello_world_screenshot.png?raw=true" width="50%">
+<img src="https://github.com/cortinem/hello-world-python/blob/master/hello_world_screenshot.png?raw=true" width="70%">
 
 https://github.com/cortinem/hello-world-python.git
 
@@ -46,20 +46,20 @@ https://github.com/cortinem/tdd-converters-python.git
 
 * #### Here's how I packaged all of the pieces
 
-<img src="https://user-images.githubusercontent.com/70117485/101536760-6ba09480-3968-11eb-8d86-5e096ae4fe8b.jpg" width="50%">
+<img src="https://user-images.githubusercontent.com/70117485/101536760-6ba09480-3968-11eb-8d86-5e096ae4fe8b.jpg" width="70%">
 
 ##### I actually used the box that the wiring kit came in to mount the arduino and breadboard to
 
 * #### Here's the first powerup 
 
-<img src="https://user-images.githubusercontent.com/70117485/101537080-eb2e6380-3968-11eb-866b-f1090843f5cb.jpg" width="50%">
+<img src="https://user-images.githubusercontent.com/70117485/101537080-eb2e6380-3968-11eb-866b-f1090843f5cb.jpg" width="70%">
 
 * #### Here it is mounted on the wall and working, I used velcro to attatch the box to the wall and the arduino to the box so i can still remove it to work on it. 
 
-<img src="https://user-images.githubusercontent.com/70117485/101537370-5bd58000-3969-11eb-90e2-49a590c050db.jpg" width="50%">
+<img src="https://user-images.githubusercontent.com/70117485/101537370-5bd58000-3969-11eb-90e2-49a590c050db.jpg" width="70%">
 
 * #### The final result is pretty good
 
-<img src="https://user-images.githubusercontent.com/70117485/101731980-75bab400-3a8a-11eb-8006-21b916f8df1d.jpg" width="50%">
+<img src="https://user-images.githubusercontent.com/70117485/101731980-75bab400-3a8a-11eb-8006-21b916f8df1d.jpg" width="70%">
 
 
